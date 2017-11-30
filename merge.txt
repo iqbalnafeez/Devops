@@ -1,4 +1,4 @@
-THIS is a first line :
+THIS is a first line : what is to test
 :`:wq
 :wq
 
